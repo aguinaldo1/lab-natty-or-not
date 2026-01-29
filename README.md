@@ -1,51 +1,36 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
+### Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+#### 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+# Projeto: Nexus: O Guia Prático da Produtividade Sintética 
 
-### Objetivos
+## Descrição
+Um guia visual e textual que explora como humanos e IAs podem colaborar para otimizar rotinas de trabalho, mantendo a autenticidade e a criatividade humana no centro de tudo.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## Tecnologias Utilizadas
+- Gemini 3 Flash (Google): Para a estruturação do roteiro e escrita dos textos.
+- chatgpt.com: Para a Reestruturação do roteiro e escrita dos textos.
+- gamma.app
 
-### Template
+## Processo de Criação
+**1. Ideação:** Utilizei o Gemini para brainstorm de temas que não parecessem "gerados por robô", focando em dores reais de profissionais.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+**2. Geração de Texto:** Solicitei que a IA adotasse um tom de voz empático e levemente sarcástico para fugir do padrão corporativo comum.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+**3. Visual:** Gere imagens usando prompts que evitavam o "estilo IA" clássico (cores saturadas demais), optando por tons pastéis e composições limpas.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+**4. Curadoria:** Editei os textos manualmente para garantir que a fluidez fosse natural.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## Resultados
+O resultado é um e-book de 5 páginas com:
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Dicas práticas de "Engenharia de Prompt" para o dia a dia.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- Visual "Aesthetic" que remete a revistas de design moderno.
 
-### Exemplos e Insigths
+- [Link fictício para o PDF ou Imagens geradas]
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Reflexão
+> O maior desafio de criar algo "natty" é o ajuste fino. A IA tende a ser redundante ou exagerada; o papel do curador humano é justamente remover os excessos para que o resultado final pareça ter sido feito por uma pessoa com muito bom gosto.
