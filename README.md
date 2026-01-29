@@ -25,7 +25,7 @@ O resultado é um e-book de 10 páginas com:
 
 - Visual "Aesthetic" que remete a revistas de design moderno.
 
-[LINK PARA O E-BOOK AQUI]()
+[[LINK PARA O E-BOOK AQUI](https://github.com/aguinaldo1/lab-natty-or-not/blob/main/NEXUS-O-Guia-Pratico-da-Produtividade-Sintetica.pdf)]()
 
 ## 💭 Reflexão
 > O maior desafio de criar algo "natty" é o ajuste fino. A IA tende a ser redundante ou exagerada; o papel do curador humano é justamente remover os excessos para que o resultado final pareça ter sido feito por uma pessoa com muito bom gosto.
